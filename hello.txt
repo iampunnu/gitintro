@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-﻿Hello
-this is praveen
-.....
-=======
-﻿hello
->>>>>>> bfcdf95aa068980edd7f8d6287f5bb40a7d49cd2
+hello
+
