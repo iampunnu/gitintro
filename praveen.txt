@@ -1,0 +1,3 @@
+first file going to push on gitintro repository
+After pressing Enter, you are not returned to the terminal prompt. Instead, the cursor is placed on the next line, and you can start entering text directly into your file. Type your lines of text, pressing Enter after each line. When you are done, press Ctrl+D to exit the file and return to the prompt.
+
